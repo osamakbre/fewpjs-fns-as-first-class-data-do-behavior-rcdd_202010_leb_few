@@ -43,7 +43,7 @@ with the content of the argument.
 It does not return anything.
 
 ## Testing
-
+h
 Finally, open up your `index.html` file in the browser. After typing `15:00` in the input field and pressing the Submit button should, you should see "Good Afternoon" printed on the DOM.
 
 Did it work? If so, take time to celebrate! Don't move on yet! Take some time to digest and internalize the code you've just wrote. If not, take time to debug.
